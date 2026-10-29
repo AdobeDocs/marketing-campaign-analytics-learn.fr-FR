@@ -60,10 +60,10 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX]
 
-**** est l’évolution et le changement d’image de **Adobe Marketing Campaign Analytics**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
+**&#x200B;**&#x200B;est l’évolution et le changement d’image de **Adobe Marketing Campaign Analytics**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
-Découvrez les principales fonctionnalités de Marketing Campaign Analytics dans l’interface utilisateur. Pour plus d’informations, consultez le guide [](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Découvrez les principales fonctionnalités de Marketing Campaign Analytics dans l’interface utilisateur. Pour plus d’informations, consultez le guide [&#128279;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
