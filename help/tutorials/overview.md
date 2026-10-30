@@ -1,29 +1,37 @@
 ---
-title: Vidéos et tutoriels Mix Modeler
-description: Ensemble de vidéos et de tutoriels pour Adobe Mix Modeler.
+title: Vidéos et tutoriels Marketing Campaign Analytics
+description: Ensemble de vidéos et de tutoriels pour Adobe Marketing Campaign Analytics.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-TQID: https://experienceleague.adobe.com/FWQ4ob4bYY75UfFmRFj7q-P5zX6k7d8jH5BV6C76HEU
+TQID: 'https://experienceleague.adobe.com/u-cvOylzy9JlmaXEA6Blw4fr-WfpKrmJB7oK70Lp3AY'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
+    internal-label: Marketing Campaign Analytics
 feature_v2:
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
+    internal-label: Models
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 1173a14c0dbe6b418918a687a9216a8cb2c7c24f
+    internal-label: Machine learning
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 12%
-
+source-wordcount: '184'
+ht-degree: 1%
 ---
+# Tutoriels Marketing Campaign Analytics
 
-# Tutoriels Mix Modeler
+>[!BEGINSHADEBOX]
 
-Découvrez Adobe Mix Modeler grâce à ces vidéos et tutoriels.
+**&#x200B;**&#x200B;est l’évolution et le changement d’image de **Adobe Marketing Campaign Analytics**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
 
-Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs investissements marketing en appliquant des modèles de machine learning qui fournissent des informations sur l’impact historique et futur des investissements marketing sur les objectifs commerciaux clés.
+>[!ENDSHADEBOX]
+
+Découvrez Adobe Marketing Campaign Analytics grâce à ces vidéos et tutoriels.
+
+Adobe Marketing Campaign Analytics aide les entreprises à mesurer, optimiser et planifier leurs investissements marketing en appliquant des modèles de machine learning qui fournissent des informations sur l’impact historique et futur des investissements marketing sur les objectifs commerciaux clés.
 
 
 <div id="recs-overview-body-1"></div>
@@ -48,7 +56,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
     </a>
     </div>
     <p>
-    <em>Voir une démonstration de bout en bout d’Adobe Mix Modeler</em>
+    <em>Voir une démonstration de bout en bout d’Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
@@ -61,7 +69,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
     </a>
     </div>
     <p>
-    <em>Découvrez les principaux composants de l’interface utilisateur d’Adobe Mix Modeler</em>
+    <em>Découvrez les principaux composants de l’interface utilisateur d’Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
   <td>
@@ -74,7 +82,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
     </a>
     </div>
     <p>
-    <em>En savoir plus sur le workflow des utilisateurs dans Adobe Mix Modeler</em>
+    <em>En savoir plus sur le workflow des utilisateurs dans Adobe Marketing Campaign Analytics</em>
     <p>
   </td>
 </tr>
