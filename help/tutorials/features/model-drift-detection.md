@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Grâce à la fonctionnalité de détection de dérive de modèle de Marketing Campaign Analytics, les modifications de performances du modèle sont automatiquement détectées et les utilisateurs sont avertis. Ils peuvent prendre des mesures immédiates pour rétablir des performances optimales du modèle. Pour plus d’informations, voir [Dérive du modèle](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} dans la documentation de Marketing Campaign Analytics.
+Grâce à la fonctionnalité de détection de dérive de modèle de Marketing Campaign Analytics, les modifications de performances du modèle sont automatiquement détectées et les utilisateurs sont avertis. Ils peuvent prendre des mesures immédiates pour rétablir des performances optimales du modèle. Pour plus d’informations, voir [Dérive du modèle](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} dans la documentation de Marketing Campaign Analytics.
 
 >[!SLIDE](model-drift-detection)

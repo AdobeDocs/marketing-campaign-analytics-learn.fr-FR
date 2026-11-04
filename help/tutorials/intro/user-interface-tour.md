@@ -64,6 +64,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Découvrez les principales fonctionnalités de Marketing Campaign Analytics dans l’interface utilisateur. Pour plus d’informations, consultez le guide [&#128279;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Découvrez les principales fonctionnalités de Marketing Campaign Analytics dans l’interface utilisateur. Pour plus d’informations, consultez le guide [&#128279;](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
