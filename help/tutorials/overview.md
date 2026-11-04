@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!BEGINSHADEBOX]
 
-**** est l’évolution et le changement d’image de **Adobe Mix Modeler**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
+**&#x200B;**&#x200B;est l’évolution et le changement d’image de **Adobe Mix Modeler**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
