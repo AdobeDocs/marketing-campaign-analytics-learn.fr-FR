@@ -28,19 +28,19 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '100'
 ht-degree: 0%
 ---
 # Détection de dérive de modèle
 
 >[!BEGINSHADEBOX]
 
-**&#x200B;**&#x200B;est l’évolution et le changement d’image de **Adobe Marketing Campaign Analytics**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
+**** est l’évolution et le changement d’image de **Adobe Mix Modeler**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
-Grâce à la fonctionnalité de détection de dérive de modèle de Marketing Campaign Analytics, les modifications de performances du modèle sont automatiquement détectées et les utilisateurs sont avertis. Ils peuvent prendre des mesures immédiates pour rétablir des performances optimales du modèle. Pour plus d’informations, voir [Dérive du modèle](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} dans la documentation de Marketing Campaign Analytics.
+Grâce à la fonctionnalité de détection de dérive de modèle de Marketing Campaign Analytics, les modifications de performances du modèle sont automatiquement détectées et les utilisateurs sont avertis. Ils peuvent prendre des mesures immédiates pour rétablir des performances optimales du modèle. Pour plus d’informations, voir [Dérive du modèle](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} dans la documentation de Marketing Campaign Analytics.
 
 >[!SLIDE](model-drift-detection)

@@ -16,16 +16,16 @@ topic_v2:
     internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 ---
 # Tutoriels Marketing Campaign Analytics
 
 >[!BEGINSHADEBOX]
 
-**&#x200B;**&#x200B;est l’évolution et le changement d’image de **Adobe Marketing Campaign Analytics**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
+**** est l’évolution et le changement d’image de **Adobe Mix Modeler**. Il se peut qu’une partie du contenu d’Experience League fasse toujours référence à Mix Modeler plutôt qu’à Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
@@ -48,7 +48,7 @@ Adobe Marketing Campaign Analytics aide les entreprises à mesurer, optimiser et
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="Vignette du tutoriel « Démonstration de bout en bout »" src="https://video.tv.adobe.com/v/3440796?captions=fre_fr&format=jpeg" />
+      <img alt="Vignette du tutoriel « Démonstration de bout en bout »" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -61,7 +61,7 @@ Adobe Marketing Campaign Analytics aide les entreprises à mesurer, optimiser et
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="image miniature de la vidéo « Visite de l’interface utilisateur »" src="https://video.tv.adobe.com/v/3452384?captions=fre_fr&format=jpeg" />
+      <img alt="image miniature de la vidéo « Visite de l’interface utilisateur »" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -74,7 +74,7 @@ Adobe Marketing Campaign Analytics aide les entreprises à mesurer, optimiser et
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="image miniature du tutoriel « Workflow de l’utilisateur »" src="https://video.tv.adobe.com/v/3440205?captions=fre_fr&format=jpeg" />
+      <img alt="image miniature du tutoriel « Workflow de l’utilisateur »" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
